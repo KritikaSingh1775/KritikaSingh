@@ -92,7 +92,7 @@ Real API integration (News API) with React. No fake data—actual live news feed
 
 ## 📫 Let's Talk
 
-If you're looking for someone who writes clean MERN code and thinks about architecture, [let's connect](www.linkedin.com/in/kritikasingh1775).
+If you're looking for someone who writes clean MERN code and thinks about architecture, [let's connect](www.linkedin.com/in/kritikasingh1775) www.linkedin.com/in/kritikasingh1775.
 
 I'm always open to interesting projects and engineering conversations.
 
